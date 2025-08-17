@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737191919791",
+    "project_id": "interactive-dictionary-a9af3",
+    "storage_bucket": "interactive-dictionary-a9af3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737191919791:android:8e6508b36ad25e82a9945a",
+        "android_client_info": {
+          "package_name": "com.example.faseeh_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9qM07G-fXEbEEVWq59m9FmxMMyQVwkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737191919791:android:2b99ddcf807a3e7da9945a",
+        "android_client_info": {
+          "package_name": "com.example.interactive_dictionary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9qM07G-fXEbEEVWq59m9FmxMMyQVwkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
